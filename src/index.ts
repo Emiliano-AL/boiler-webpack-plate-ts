@@ -1,4 +1,6 @@
-import {saludar} from './forms';
+import { saludar } from './forms';
 
-console.log('hola');
+// console.log('hola');
 saludar();
+
+// const hola = 'asdad';

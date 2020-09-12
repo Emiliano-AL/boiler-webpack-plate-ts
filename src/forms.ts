@@ -1,4 +1,3 @@
-
-export const saludar = ()  =>{
-  console.log('form file');
-}
+export const saludar = () => {
+  // console.log('form file');
+};
