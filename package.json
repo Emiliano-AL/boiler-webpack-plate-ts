@@ -4,7 +4,7 @@
   "description": "boilerplate to use typescript in webpack ",
   "main": "index.js",
   "scripts": {
-    "serve": "webpack-dev-server",
+    "serve": "webpack-dev-server --open",
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
